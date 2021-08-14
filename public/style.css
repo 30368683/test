@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    color: white;
+    background-color:#2E0D74F5;
+}
+header{
+    text-align:center;
+    margin: 30px;
+    font-family: 'lobster', sans-serif;
+    font-size:xx-large;
+    color:white;
+}
+input{
+    font-size: medium;
+    background-color: #2E0D74F5;
+    color: white;
+    border-color: #9E2EF5;
+}
+::placeholder{
+    color: white;   
+}
+.container{
+    display:flex;
+    justify-content: center;
+    font-size: small;
+    height: 50px;
+}
+button{
+    background-color: #9E2EF5;
+    color: white;
+    border: none;
+}
